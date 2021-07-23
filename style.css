@@ -1,0 +1,90 @@
+/* STYLE SECTIONING TAGS */
+* { /* Reset the space of the webpage */
+   margin: 0px;
+   padding: 0px;
+}
+
+body {
+ background-color: rgba(64, 143, 136, 0.651); 
+ text-align: center;
+ }
+
+/* STYLE TEXT */
+.about {
+  color: black;
+  padding-right: 10%;
+  padding-left: 10%; 
+}
+h1 {
+  margin-top: 2%;
+  color: rgb(215, 235, 247);
+  margin-bottom: .5em;
+  font-family: fantasy;
+}
+
+h2{
+  color: rgba(231, 187, 235, 0.979);
+  margin-bottom: 2%;
+  font-family: fantasy;
+
+}
+h3{
+  color: pink;
+  font-family: fantasy;
+
+}
+p{
+  margin-bottom: 2%;
+  margin-top: 2%;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  padding-left: 10%;
+  padding-right: 10%; 
+}
+#fact{
+  border-style: none;
+  padding: 15px;
+  
+  margin-left: 35px;
+  margin-right: 35px;
+
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-align: center;
+  line-height: 1.2em;
+  color: blanchedalmond;
+
+}
+/* STYLE IMAGES */
+img{
+  margin-bottom: 2%;
+  margin-top: 2%;
+  max-width: 40%;
+  max-height: 40%;
+}
+/* STYLE NAV BAR */
+ul{
+list-style-type: none;
+background-color: rgb(243, 99, 111);
+overflow: hidden;
+padding: 1em;
+}
+
+li{
+display: inline;
+}
+
+li a{
+
+  text-decoration: none;
+  color: lightgoldenrodyellow;
+  font-size: 1.3em;
+  padding: 1em;
+  margin-bottom: 4em;
+}
+
+li a:hover {
+  background-color: rgb(164, 195, 240);
+
+}
+/* STYLE BUTTONS */
+
+/* ADD MORE! */
