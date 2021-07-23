@@ -8,4 +8,4 @@ Your project should:
 - Include alt text for every image in your website.
 - Use code comments to describe your code.
 
-##I created a mental health website because I wanted to raise awareness of mental health and how important mental health affects our day to day lives.
+I created a mental health website because I wanted to raise awareness of mental health and how important mental health affects our day to day lives.
